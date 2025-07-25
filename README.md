@@ -71,7 +71,7 @@ csharp
 Copy
 Edit
 [2025-07-25 14:05:32] Drowsiness Detected
-📄 Log File Example
+# Log File Example
 txt
 Copy
 Edit
