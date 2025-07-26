@@ -26,12 +26,13 @@ This project is a real-time **Driver Drowsiness Detection System** that monitors
 1. Clone the repository:
    
    git clone https://github.com/your-username/drowsiness-detector.git
+   
    cd drowsiness-detector
 
-2. Install the dependencies:
+3. Install the dependencies:
    pip install -r requirements.txt
 
-3. Add an alarm.wav file to the project folder.
+4. Add an alarm.wav file to the project folder.
 
 # How to Run
 python drowsiness_detector.py
