@@ -60,7 +60,9 @@ Increments the drowsy count on the GUI
 
 Real-time visual alert: "DROWSINESS ALERT!"
 Alarm sound
+
 A file named drowsiness_log.txt containing:
+
 [2025-07-25 14:05:32] Drowsiness Detected
 
 # Log File Example
