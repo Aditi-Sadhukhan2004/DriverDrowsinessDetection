@@ -24,19 +24,15 @@ This project is a real-time **Driver Drowsiness Detection System** that monitors
 # Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/drowsiness-detector.git
    cd drowsiness-detector
    
 2. Install the dependencies:
-bash
 pip install -r requirements.txt
-3. Add an alarm.wav file to the project folder.
+
+4. Add an alarm.wav file to the project folder.
 
 # How to Run
-bash
-Copy
-Edit
 python drowsiness_detector.py
 Click "Start Detection" to begin.
 
@@ -65,14 +61,10 @@ Increments the drowsy count on the GUI
 Real-time visual alert: "DROWSINESS ALERT!"
 Alarm sound
 A file named drowsiness_log.txt containing:
-csharp
-Copy
-Edit
 [2025-07-25 14:05:32] Drowsiness Detected
+
 # Log File Example
-txt
-Copy
-Edit
+
 [2025-07-25 14:01:02] Drowsiness Detected
 [2025-07-25 14:03:45] Drowsiness Detected
 
