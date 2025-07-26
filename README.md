@@ -66,6 +66,7 @@ A file named drowsiness_log.txt containing:
 # Log File Example
 
 [2025-07-25 14:01:02] Drowsiness Detected
+
 [2025-07-25 14:03:45] Drowsiness Detected
 
 # Contributing
